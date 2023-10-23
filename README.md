@@ -8,3 +8,7 @@ open checkout.php:
 
 step2:
   recive the data from apple pay and send to ApplePay.php
+
+i hope usefull for everyone 
+
+instagram: @mahdi_fadaiee
